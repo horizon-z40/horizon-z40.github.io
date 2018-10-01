@@ -106,3 +106,5 @@ friends: [
         href: "http://www.google.com.hk"
     }
 ]
+
+theme: jekyll-theme-merlot

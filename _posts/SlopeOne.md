@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      SlopeOne协同过滤
+subtitle:   
+date:       2018-10-01
+author:     horizon-z40
+header-img: img/post-bg-cook.jpg
+catalog: true
+tags:
+    - 推荐系统
+---
+
 Slope One 算法是一个Item-Based 的协同过滤推荐算法。和其它类似算法相比, 它的最大优点在于算法很简单, 易于实现, 执行效率高, 同时推荐的准确性相对较高。
 
 Slope One算法是基于不同物品之间的评分差的线性算法，预测用户对物品评分的个性化算法。主要两步： 

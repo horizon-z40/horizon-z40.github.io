@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      推荐算法之SVD
+subtitle:   
+date:       2018-10-01
+author:     horizon-z40
+header-img: img/post-bg-cook.jpg
+catalog: true
+tags:
+    - 推荐系统
+---
+
 SVD属于“隐语义”方法。有`basic SVD`, `RSVD`, `ASVD`, `SVD++` 。
 
 https://blog.csdn.net/evillist/article/details/76269733

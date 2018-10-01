@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      推荐算法之E&E
+subtitle:   
+date:       2018-10-01
+author:     horizon-z40
+header-img: img/post-bg-cook.jpg
+catalog: true
+tags:
+    - 推荐系统
+---
+
 [推荐系统的EE问题及Bandit算法](https://x-algo.cn/index.php/2016/12/15/ee-problem-and-bandit-algorithm-for-recommender-systems/) 
 
 

@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      GBDT用于特征交叉
+subtitle:   
+date:       2018-10-01
+author:     horizon-z40
+header-img: img/post-bg-cook.jpg
+catalog: true
+tags:
+    - 机器学习
+---
+
 [github-MachineLearningTricks](https://github.com/lytforgood/MachineLearningTrick) 
 
 

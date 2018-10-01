@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      Bootstrap自助采样法
+subtitle:   
+date:       2018-10-01
+author:     horizon-z40
+header-img: img/post-bg-cook.jpg
+catalog: true
+tags:
+    - 机器学习
+---
+
 一个盒子里有100个小球（编号1到100），每次从盒子里随机挑选一个小球，记录该球的编号并将小球放回。重复抽样步骤100次，问抽样得到的不重复小球的个数是多少？'
 
 

@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      FTRL
+subtitle:   
+date:       2018-10-01
+author:     horizon-z40
+header-img: img/post-bg-cook.jpg
+catalog: true
+tags:
+    - 机器学习
+    - 最优化
+---
+
 参考：http://vividfree.github.io/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/2015/12/05/understanding-FTRL-algorithm
 
 http://iyao.ren/?p=137

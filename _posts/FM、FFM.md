@@ -1,3 +1,18 @@
+---
+layout:     post
+title:      FM、FFM模型介绍
+subtitle:   
+date:       2018-10-01
+author:     horizon-z40
+header-img: img/post-bg-cook.jpg
+catalog: true
+tags:
+    - 机器学习
+    - 推荐系统
+---
+
+
+
 这个不错，还包含了工具包介绍：http://mufool.com/2017/11/20/fm/
 
 

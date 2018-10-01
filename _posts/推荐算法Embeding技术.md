@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      推荐算法之Embeding技术
+subtitle:   
+date:       2018-10-01
+author:     horizon-z40
+header-img: img/post-bg-cook.jpg
+catalog: true
+tags:
+    - 推荐系统
+---
+
 每个user/item可以表示为一个向量，向量之间的相似度可以用来改善推荐。
 
 ##### 1. denoising autoencode

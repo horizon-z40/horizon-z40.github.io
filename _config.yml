@@ -1,5 +1,5 @@
 # Site settings
-title: BY Blog
+title: Zhushilin Blog
 SEOTitle: 新来的喷子
 header-img: img/paopao.jpg
 email: horizon-z40@foxmail.com
@@ -99,16 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "Baidu",
+        href: "https://baidu.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Google",
+        href: "http://www.google.com.hk"
     }
 ]
